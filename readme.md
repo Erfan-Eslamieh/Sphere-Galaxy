@@ -1,6 +1,6 @@
-# Three.js Journey
+# Project 1 : Sphere Galagy
 
-## for Setup first :
+## if you want deploy it in your computer first Setup  :
 
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
@@ -15,3 +15,4 @@ npm run dev
 # Build for production in the dist/ directory
 npm run build
 ```
+You can see it easly in this website: [spehre-galagy](https://spehre-galagy.vercel.app/).
